@@ -1,2 +1,3 @@
 # hello-world-
-hello world is a test program
+Hi there this is tewodros how are you 
+i'm happy to work with github
